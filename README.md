@@ -2,6 +2,10 @@
 
 This project is a sentiment analysis on tweets pertaining to the Walt Disney Company Parks and Resorts between March 19,2020 - March 27, 2020. 
 
+## The Data 
+
+This project is a sentiment analysis on tweets pertaining to the Walt Disney Company Parks and Resorts between March 19,2020 - March 27, 2020. All tweets were extracted using Twitter's API.
+
 ## Technologies
 
 Completed in Python, the following packages are used
